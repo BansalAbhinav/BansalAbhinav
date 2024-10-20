@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Abhinavbansal2503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/117z9bABPtWQp30YkOHzWC5yTmtPzx5IL/view?usp=sharing](https://drive.google.com/file/d/117z9bABPtWQp30YkOHzWC5yTmtPzx5IL/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/117z9bABPtWQp30YkOHzWC5yTmtPzx5IL/view?usp=sharing](https://drive.google.com/file/d/1VoS_0jhwkwigJTW9WSds0lS2na9MFTd8/view?usp=sharing)
 
 - ⚡ Fun fact **Love to play Guitar**
 
