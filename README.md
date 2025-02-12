@@ -1,25 +1,106 @@
-![logo](https://github.com/BansalAbhinav/BansalAbhinav/blob/main/Abhinavbanner.png)
-<h1 align="center">Hi 👋, I'm Abhinav Bansal</h1>
-<h3 align="center">A Passionate Software Engineer from INDIA</h3>
-<img align ="center"alt="coding" width= "400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bansalabhinav&label=Profile%20views&color=0e75b6&style=flat" alt="bansalabhinav" /> </p>
+<br clear="both">
 
-- 🌱 I’m currently learning **React.js**
+<div align="center">
+  <img height="150" src="https://github.com/BansalAbhinav/BansalAbhinav/blob/main/Abhinavbanner.png?raw=true"  />
+</div>
 
-- 🤝 I’m looking to collaborate on **Web Apps**
+###
 
-- 📫 How to reach me **Abhinavbansal2503@gmail.com**
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhinavbansal2503/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Abhinav_Bansal_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.gg/Ug6uuax6ND" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/117z9bABPtWQp30YkOHzWC5yTmtPzx5IL/view?usp=sharing](https://drive.google.com/file/d/1VoS_0jhwkwigJTW9WSds0lS2na9MFTd8/view?usp=sharing)
+###
 
-- ⚡ Fun fact **Love to play Guitar**
+<h1 align="center">Hello World! I'm Abhinav, an Indian Web Developer  <Namaste/>  🙏😚</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhinavbansal2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavbansal2503" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinavbansal2503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinavbansal2503" height="30" width="40" /></a>
-<a href="https://discord.gg/obito_0798" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="obito_0798" height="30" width="40" /></a>
-</p>
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
+
+<p align="left">I'm Abhinav Bansal from Uttarakhand<br><br>- 🔭 I’m working as fullstack Developer<br>- 📚 I'm currently learning DevOps<br>-⚡ In my free time I like to play guitar and play games<br>- 📫 How to reach me abhinavbansal2503@gmail.com</p>
+
+###
+
+<div align="center">
+  <img height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VmMWdrZTcwemhrbnR0a3dyenJkc2p5OHJnaTZxMGx0b2hyN2J2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/BansalAbhinav/BansalAbhinav/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">💻 Tech Stack:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BansalAbhinav/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BansalAbhinav&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=BansalAbhinav&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
