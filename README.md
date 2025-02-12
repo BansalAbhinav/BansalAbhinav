@@ -20,7 +20,7 @@
 
 ###
 
-<h1 align="center">Hello World! I'm Abhinav, an Indian Web Developer  <Namaste/>  🙏😚</h1>
+<h1 align="center">Hello World! I'm Abhinav, an Indian Web Developer  < Namaste/> 🙏😚</h1>
 
 ###
 
